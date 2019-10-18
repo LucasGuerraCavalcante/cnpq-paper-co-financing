@@ -1,10 +1,10 @@
 # cnpq-paper-co-financing
 
-# Descrição
+## Descrição
 
-Relatório sobre o cofinanciamento de artigos cinetíficos brasilieiros
+Relatório sobre o cofinanciamento de artigos cinetíficos no Brasil
 
-# Description
+## Description
 
 Report about co-financing of scientific papers in Brazil
 
@@ -95,6 +95,7 @@ O gráfico acima mostra as 10 principais universidades que produziram artigos co
 ![grafico12](https://github.com/LucasGuerraCavalcante/cnpq-paper-co-financing/blob/master/img/universidadesostres.jpg)
 
 ## **O Resto do Relatório Ainda Está em Construção**
+## **The report still on progress**
 
 ### Referências
 
